@@ -43,3 +43,4 @@ Overall, Task 2 greatly improved my confidence in working with pointers and data
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/640f89d1-c185-430a-92e2-0b4e8085c82c)
